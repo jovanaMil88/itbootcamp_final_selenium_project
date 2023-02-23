@@ -327,6 +327,9 @@ TC3            Edits profile                   Click on the login button from th
                                                url entered into the form.                                The both Urls are equal.                    / 
                                                Click on the logout button from the navigation bar.       The user is logged out and                  
                                                                                                          the login page is opened.                   /
+                                                                                                         
+[itbootcamp final selenium project_Test Suite.txt](https://github.com/jovanaMil88/itbootcamp_final_selenium_project/files/10818738/itbootcamp.final.selenium.project_Test.Suite.txt)
+                                                                                                         
                                                           
                                                
          
